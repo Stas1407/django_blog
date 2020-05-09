@@ -17,6 +17,14 @@ ul {
   margin: 0;
 }
 
+.parent {
+  text-align: center;
+}
+
+.center {
+  display: inline-block;
+}
+
 .bg-steel {
   background-color: #5f788a;
 }
