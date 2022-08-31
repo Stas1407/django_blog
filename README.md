@@ -2,4 +2,4 @@
 
 Blog made as an exercise with django.
 
-Link: https://blogwithdjango.herokuapp.com/
+Link: https://djangoblog.stas1407.ml/
